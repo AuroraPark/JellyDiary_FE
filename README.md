@@ -1,30 +1,45 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# 프로젝트 소개
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 프로젝트 배경
 
-## Expanding the ESLint configuration
+# 데모
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+# 주요 기능
 
-- Configure the top-level `parserOptions` property like this:
+# 프로젝트 구조
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+# Stack
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# 기술 스택, 기술 선정 이유
+
+
+## React
+
+React 는 JavaScript 라이브러리로써, 다이어리 특성 상 컴포넌트 단위의 렌더링 구조를 가지고, 재사용성을 높이는 것이 필요하다고 생각했습니다. 따라서 다양한 툴을 활용 할 수 있고 추후 반응형 개발의 확장성을 고려해 보았을 때 적절하다고 판단되어 사용하게 되었습니다.
+
+
+## TypeScript
+
+TypeScript는 JavaScript 기반의 정적 타입 문법을 추가한 프로그래밍 언어로 타입을 사용할 수 있기 때문에, 협업에 앞서 컴파일 에러를 줄이기 위한 도입이었습니다. 또한 React와의 호환성이 좋기 때문에 React를 사용하는 이번 프로젝트에 적합하다고 생각하였습니다.
+
+## Vite
+
+ESM 방식의 빠른 빌드를 지원하기 때문에 Vite 번들러를 이용하였습니다.
+
+## Styled-Component
+
+## React-Query(TanStack Query)
+
+## Zustand
+
+# 기술적인 고민과 해결 방법
+
+# 커밋 메시지와 브랜치 관리
+
+# 폴더 구조
+
+# 기대 효과
+
+# 활용 분야
