@@ -1,12 +1,24 @@
+![image](https://github.com/AuroraPark/JellyDiary_FE/assets/47839204/f142244d-c200-4318-94a9-93258809f9ae)
 
 
-# 프로젝트 소개
+# Jelly Diary
+
+## 반려 동물의 일상 기록 부터 공동 육아 까지 한번에 가능한 다이어리 웹 서비스
 
 # 프로젝트 배경
 
+반려동물 522만 시대, 반려동물 특화 소셜 네트워크
+
+단순히 정보를 공유하는 것을 넘어 사용자 간의 교류를 가능하게 하여 반려동물의 일상 관리에 있어 공동의 노력과 지식을 통합할 수 있는 공간을 제공하고자 함.
+
 # 데모
 
+<img width="1270" alt="스크린샷 2024-05-27 오후 7 13 39" src="https://github.com/AuroraPark/JellyDiary_FE/assets/47839204/6435ee57-1c83-4e2f-9948-bc0473351760">
+
+[🐾 Jelly Diary](https://jellydiary.life/login)
+
 # 주요 기능
+
 
 # 프로젝트 구조
 
